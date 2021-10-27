@@ -3,8 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
-import App from './App';
-import Card from './Card';
+import App from './containers/App';
+import Card from './components/Card';
 // uppcase for component, lower else
 
 
